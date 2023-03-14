@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/03/13/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hadoop笔记</title>
+    <url>/2023/03/14/Hadoop%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>Hadoop是一个开源分布式系统架构</p>
+<p>分布式计算框架MapReduce—解决大数据计算</p>
+<p>分布式资源管理系统YARN</p>
+<p><img src="/img/Hadoop/clip_image002.png" alt="img" loading="lazy"></p>
+<p>Hadoop核心构成</p>
+<p>HDFS:分布式文件系统,解决分布式存储</p>
+<p>MapReduce:分布式计算框架</p>
+<p>YARN:分部署资源管理系统,在Hadoop2.x引入</p>
+<p>为什么选择Hadoop</p>
+<ol>
+<li><p>高扩展性,可伸缩</p>
+</li>
+<li><p>高可靠性:多副本机制,容错高</p>
+</li>
+<li><p>低成本</p>
+</li>
+<li><p>无共享架构</p>
+</li>
+<li><p>灵活,可存储任意类型数据</p>
+</li>
+<li><p>开源,社区活跃</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Hadoop</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+</search>
